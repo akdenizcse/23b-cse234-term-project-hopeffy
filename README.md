@@ -9,4 +9,29 @@
 
 ## Exploring Restaurants 
     - You can explore restaurants with a variety of different options.
+    - Search restaurant.
     
+## Create a favourites list 
+    - Add the restaurant to 'my favorites' once and can easily access to it always.
+    -You can search among your favourites.
+
+## Comments
+    - Add comments and rate restaurants.
+    - View previous comments.
+
+## Languages
+    - Change the language. The available options are English and Turkish. 
+
+## Restaurants Page
+    - Find out where the restaurant is on Google Maps.
+    - access comments.
+    - view th menu.
+    - add the favorites.
+
+## Profile
+    - Change the profile photo.
+    - Change the name, email and password of the user.
+
+## Dark Mode
+    - Change the mode to dark or light.
+
