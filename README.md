@@ -5,6 +5,7 @@
 
  ## Register and Authorization
     - You can sign up the application with your e-mail and phone number.
+    - If you create a new account once, you wont need to sign up again. Can access the account with your name and password. 
     
 
 ## Exploring Restaurants 
