@@ -1,7 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bNK1Gd0z)
 
+# FIND-REST APP
+    - you can find the prototype in figma.
+    [Figma link](https://www.figma.com/file/vLsV7zUzx2ZE0UvLKhu1qL/Main-page?type=design&node-id=26%3A5&t=hkIKLgnXHba9pOOo-1)
+
 # Purpose of Find-Rest App
- - Make a community for reaching high quality.
+    - Make a community for reaching high quality.
 
  ## Register and Authorization
     - You can sign up the application with your e-mail and phone number.
